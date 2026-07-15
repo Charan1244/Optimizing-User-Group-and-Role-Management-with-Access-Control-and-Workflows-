@@ -14,15 +14,15 @@ The solution improves governance, security, accountability, and operational effi
 
 ## 🎯 Objectives
 
-Implement User Management
-Create and Manage Groups
-Configure Custom Roles
-Implement Role-Based Access Control (RBAC)
-Configure Access Control Lists (ACLs)
-Create Project and Task Tables
-Automate Workflows using Flow Designer
-Implement Approval Process
-Improve Security and Governance
+- Implement User Management
+- Create and Manage Groups
+- Configure Custom Roles
+- Implement Role-Based Access Control (RBAC)
+- Configure Access Control Lists (ACLs)
+- Create Project and Task Tables
+- Automate Workflows using Flow Designer
+- Implement Approval Process
+- Improve Security and Governance
 
 ## 🚀 Features
 
